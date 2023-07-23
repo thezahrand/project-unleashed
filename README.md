@@ -1,7 +1,6 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
-https://raw.githubusercontent.com/thezahrand/project-unleashed/main/properties/Projects__3_-removebg-preview-transformed.png
 [![Logo](https://raw.githubusercontent.com/thezahrand/project-unleashed/main/properties/Projects__3_-removebg-preview-transformed.png)](#readme)
 
 [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
