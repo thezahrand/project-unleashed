@@ -1,7 +1,8 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
-[![YT-DLP]([https://github.com/thezahrand/project-unleashed/blob/main/properties/Projects__3_-removebg-preview-transformed.png?raw=true])](#readme)
+https://raw.githubusercontent.com/thezahrand/project-unleashed/main/properties/Projects__3_-removebg-preview-transformed.png
+[![YT-DLP]([https://raw.githubusercontent.com/thezahrand/project-unleashed/main/properties/Projects__3_-removebg-preview-transformed.png])](#readme)
 
 [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
 [![PyPi](https://img.shields.io/badge/-PyPi-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](https://pypi.org/project/yt-dlp "PyPi")
